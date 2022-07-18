@@ -2,7 +2,7 @@
 
 ## [pgrpc](./tool)
 
-[pgrpc](./tool) 是PandaFrame开发人员的开发工具，有助于快速生成框架代码。
+[pgrpc](./tool) 是PandaPro基于Dapr的微服务开发人员的开发工具，有助于快速生成框架代码。
 
 ## [protoc-gen-go-http](./protoc-gen-go-http)
 
